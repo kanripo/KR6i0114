@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:08.486712
+#+DATE: 2015-08-30 20:10:09.161368
 #+TITLE: 無所有菩薩經
 #+PROPERTY: CBETA_ID T14n0485
 #+PROPERTY: ID KR6i0114
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 485
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIU
 #+PROPERTY: LASTPB <pb:KR6i0114_T_000-0673a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0114_T_001-0673a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.485¶
-
- 《無所有菩薩經》卷第一¶
+No. 485¶
+《無所有菩薩經》卷第一¶
 ¶
 隋天竺三藏闍那崛多等譯¶
 
