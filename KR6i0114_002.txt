@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:08.528148
+#+DATE: 2015-08-30 20:10:10.909338
 #+TITLE: 無所有菩薩經
 #+PROPERTY: CBETA_ID T14n0485
 #+PROPERTY: ID KR6i0114
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 485
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6i0114_T_000-0673a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0114_T_002-0680a> 
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《無所有菩薩經》卷第二¶
-隋天竺三藏闍那崛多等譯¶
+《無所有菩薩經》卷第二¶
+隋天竺三藏闍那崛多等等譯¶
 
 「世尊！我於彼時，復見彼諸聽法大眾，以天人¶
 花及眾寶物而散佛上；及諸菩薩而聽法已，¶
@@ -870,8 +869,7 @@
 有顛倒，是故汝等所有諸想住持建立。如是¶
 等想無有實想，是顛倒想非有實想，是故汝¶
 今已得至於無疑惑處，亦當得於無礙辯才。¶
-汝等已脫諸疑惑故，求菩提時不由於他，常¶
-當自體一切開悟。」
+汝等已脫諸疑惑故，求菩提時不由於他，常當自體一切開悟。」
 
 時，世尊言：「汝善男子！善哉！¶
 善哉！如汝所說。」
