@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 無所有菩薩經
+#+DATE: 2015-08-30 20:10:08.822856
+#+PROPERTY: JUAN 0
